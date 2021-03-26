@@ -17,7 +17,6 @@
 	
 </p>
 
-<hr>
 <br/>
 
 ## :rocket: Sobre o desafio
