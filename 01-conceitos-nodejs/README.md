@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#space_invader-conceitps-aplicados">Conceitos aplicados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#space_invader-conceitos-aplicados">Conceitos aplicados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 
   <p align="center">Desafio solucionado! 25/03/2021 🚀 Done :heavy_check_mark:</p>	
@@ -20,9 +20,9 @@
 <hr>
 <br/>
 
-<h2>
-  :rocket: Sobre o desafio
-</h2>
+## :rocket: Sobre o desafio
+
+
 <br>
 <p>
 Nesse desafio você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
