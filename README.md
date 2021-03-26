@@ -2,15 +2,14 @@
 
 <h2 align="center">
   Desafios do GoStack Bootcamp 🚀
-  
+
+</h2>
+
 <p align="center">
   Acesse aqui as anotações que realizei no Notion: <a href="https://www.notion.so/igniteguilhermejulio/Home-bf47ee8ad4fa4de7b3584e5cf16b401c">Ignite Workspace - Notion</a>
 </p>
   
 <p align="center">Acesse o repositório das aulas: <a href="https://github.com/guilhermejulio/ignite-nodejs-workspace">Ignite Workspace</a></p>
-
-
-</h2>
 
 - ## 📜 Índice das aulas
 
