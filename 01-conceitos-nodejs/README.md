@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" src="/.github/foguete.png" width="200px" />
+    <img alt="Ignite" src="../.github/Ignite_background.png" />
 </h1>
 
 <h3 align="center">
