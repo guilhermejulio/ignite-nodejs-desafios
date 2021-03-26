@@ -4,7 +4,9 @@
   Desafios do GoStack Bootcamp 🚀
 </h2>
 
-- ### 📜 Índice dos desafios
+<h2 align="center"> 
+  📜 Índice dos desafios 
+</h2>
 
 ### Chapter I
   
