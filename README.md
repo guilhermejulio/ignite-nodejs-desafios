@@ -15,7 +15,7 @@
 
 - ### Chapter I
   
-- [01 - Conceitos do Node.js]() 🚀 Done :heavy_check_mark:
+- [01 - Conceitos do Node.js](https://github.com/guilhermejulio/ignite-nodejs-desafios/tree/main/01-conceitos-nodejs) 🚀 Done :heavy_check_mark:
 - [02 - Trabalhando com Middlewares]() :construction: In Progress... :construction:
 - [03 - Corrigindo o código]() :construction: In Progress... :construction:
 
