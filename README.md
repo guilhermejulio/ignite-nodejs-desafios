@@ -1,7 +1,7 @@
 <img alt="Ignite" src=".github/Ignite_background.png" />
 
 <h2 align="center">
-  Desafios do GoStack Bootcamp 🚀
+  Desafios do GoStack Bootcamp  🚀
 
 </h2>
 
